@@ -1,0 +1,72 @@
+body {
+background-image:url("https://static.vecteezy.com/system/resources/thumbnails/000/124/325/small/free-vector-pink-glitter-texture.jpg");
+}
+
+#title {
+position:relative;
+top:0px;
+left:0px; 
+padding:10px;
+margin:0px;
+width:100%;
+background-color:#e50973;
+text-align:center; 
+z-index:10;
+font-family: 'JustLettersMedium'; 
+font-weight: normal; 
+font-style: normal; 
+font-size:36px;
+}
+
+.chessboard {
+  width: 10px;
+  height: 640px;
+  border: 25px sol
+}
+
+.row{
+ position: relative;
+ margin-left:10%;
+ margin-right:10%;
+}
+
+.clear {
+clear:both;
+}
+
+
+.white{
+ border: 1px solid black;
+ width: 10%;
+ height: 60px;
+ background-color:white;
+ float:left;
+}
+ 
+.black{
+ border: 1px solid black;
+ width: 10%;
+ height: 60px;
+ background-color:#787878;
+ float:left;
+}
+
+#clear{
+  clear:both;
+}
+
+#container {
+ margin-top:20%;
+ margin-left:10%;
+ margin-right:10%;
+ margin-bottom:5%;
+}
+
+#footer {
+ border:solid 1px;
+ padding: 10px;
+ margin:10px;
+ text-align: center;
+ background-color: #e50973;
+  
+}
