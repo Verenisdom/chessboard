@@ -1,9 +1,14 @@
+html, body {
+  height:100%;
+  margin: 0;
+}
+
 body {
 background-image:url("https://static.vecteezy.com/system/resources/thumbnails/000/124/325/small/free-vector-pink-glitter-texture.jpg");
 }
 
 #title {
-position:relative;
+position:fixed;
 top:0px;
 left:0px; 
 padding:10px;
@@ -21,7 +26,6 @@ font-size:36px;
 .chessboard {
   width: 10px;
   height: 640px;
-  border: 25px sol
 }
 
 .row{
